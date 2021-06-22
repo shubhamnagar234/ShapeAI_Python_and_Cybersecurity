@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - JAIPUR  || 22 Jun 2021 | 06:49:01 PM     
+-------------------------------------------------------------
+Current temperature is: 38.62 deg C
+Current weather desc  : haze
+Current Humidity      : 22 %
+Current wind speed    : 6.17 kmph
